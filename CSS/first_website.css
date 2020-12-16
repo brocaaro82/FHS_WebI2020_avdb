@@ -192,3 +192,19 @@ nav li a:hover {
     font-size: 1.5rem;
     line-height: 2.25rem;
 }
+.right p a{
+    text-decoration: none;
+    color: black;
+}
+.right p a:hover {
+    box-shadow: 1px 1px 1px 1px rgba(0,0,0,0.41);
+    border: 1px solid rgba(0,0,0,0.41);
+}
+.left a {
+    text-decoration: none;
+    color: black;
+}
+.left a img:hover {
+    box-shadow: 6px 6px 5px 1px rgba(0,0,0,0.41);
+    border: 1px solid rgba(0,0,0,0.41);
+}
